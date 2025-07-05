@@ -1,0 +1,5 @@
+{
+  "name": "ClassMate - Pengurus Kelas",
+  "description": "A mobile-first web app for students and class monitors to manage class timetables, attendance, announcements, and learning materials. Features user roles, a dark mode, and a clean, modern interface in Bahasa Melayu.",
+  "requestFramePermissions": []
+}
